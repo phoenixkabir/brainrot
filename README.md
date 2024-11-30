@@ -22,6 +22,9 @@ This project is an AI-powered tool designed to analyze resumes, conduct intervie
     ```sh
     pip install -r requirements.txt
     ```
+5. Get your API Keys
+   -Hume
+   -Groq
 
 ## Usage
 
